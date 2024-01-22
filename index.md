@@ -12,9 +12,12 @@ This year, NEMISIG will at Ithaca College in Ithaca, NY on March 23, 2024. It is
 
 ## Schedule
 
-Friday, March 22, 2024 - NEMIJam Party at Doug's house in downtown Ithaca - Propose songs and sign up to play them with help from your friends, strangers, and the house band.  
+#### Friday, March 22, 2024 
+NEMIJam Party at Doug's house in downtown Ithaca - Propose songs and sign up to play them with help from your friends, strangers, and the house band. Bring a friend, everyone is welcome!
 
-In Williams Hall, Williams Hall 323  except where noted:
+
+#### Saturday, March 23, 2024:
+In Williams Hall, Williams Hall 323 except where noted:
 
 * 9:00 am -- Check-in, coffee, and pastries 
 * 9:15 am -- Welcome remarks 
