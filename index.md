@@ -13,7 +13,9 @@ This year, NEMISIG will be held at Ithaca College in Ithaca, NY on March 23, 202
 ## Schedule
 
 #### Friday, March 22, 2024 
-NEMIJam Party at Doug's house in downtown Ithaca ([408 Linn St.](https://www.google.com/maps/place/408+Linn+St,+Ithaca,+NY+14850/@42.4478682,-76.495143,17z/data=!3m1!4b1!4m6!3m5!1s0x89d08186e964fe8f:0x92ef9d625cab75f0!8m2!3d42.4478682!4d-76.495143!16s%2Fg%2F11c253403z?entry=ttu)) - Propose songs and [sign up](https://docs.google.com/spreadsheets/d/1SFimdtwF5PN5RuhGjUGQC1h2mKQKwEOpCD8q3pHx4V0/edit?usp=sharing) to play them with help from your friends, strangers, or the house band. Bring a friend, everyone is welcome!
+The NEMIJam DIY Music Party will be at Doug's house in downtown Ithaca ([408 Linn St.](https://www.google.com/maps/place/408+Linn+St,+Ithaca,+NY+14850/@42.4478682,-76.495143,17z/data=!3m1!4b1!4m6!3m5!1s0x89d08186e964fe8f:0x92ef9d625cab75f0!8m2!3d42.4478682!4d-76.495143!16s%2Fg%2F11c253403z?entry=ttu)) - Propose songs and [sign up](https://docs.google.com/spreadsheets/d/1SFimdtwF5PN5RuhGjUGQC1h2mKQKwEOpCD8q3pHx4V0/edit?usp=sharing) to play them with help from your friends, strangers, or the house band. Bring a friend, everyone is welcome!
+
+Come with a full band, a song you would like to play, or anything in between. Just let us know so that we can plan accordingly. We have mics, guitars amps, a drum set, a bass, guitars, a banjo, hand drums, and a PA system. Also feel free to bring your own instrument. Extra points for groups that involve players from multiple institutions!
 
 
 #### Saturday, March 23, 2024:
