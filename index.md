@@ -36,19 +36,34 @@ In Williams Hall, Williams Hall 323 except where noted:
 * 04:00 pm  -- Breakout session recap and closing remarks
 
 
-## About Ithaca
+## About Ithaca and Ithaca College
 
-Coming Soon
+Ithaca, New York, is a small city known for its scenic beauty, vibrant cultural scene, and academic atmosphere, largely influenced by Cornell University and Ithaca College. Situated in the Finger Lakes region, it's renowned for its natural attractions, including gorges, waterfalls, and Cayuga Lake. The downtown area, centered around the Ithaca Commons, is a hub for local shops, restaurants, and arts venues. Ithaca also has a strong community focus on sustainability and progressive politics. 
+
+Ithaca College, located in Ithaca, New York, is a private college known for its strong programs in communications, music, and the liberal arts. Established in 1892, it emphasizes a blend of theory and practice in its curriculum. The college is renowned for its hands-on approach to learning, offering numerous opportunities for internships and experiential learning. Its picturesque campus overlooks Cayuga Lake and offers a vibrant college town environment, while its alumni network is particularly strong in the media and entertainment industries.
 
 ## Travel and Accommodations
+Ithaca College maintains a [list of local hotels](https://www.ithaca.edu/orientation/family-and-supporter-resources/area-lodging).
+
+For the funky boutique hotel experience, we recommend the [Argos Inn[(https://www.argosinn.com/) (great Jazz nights) and the [William Henry Miller Inn](https://millerinn.com/) which are both downtown close to cultural center of downtown Ithaca.
+
+[AirBnB](https://www.airbnb.com/ithaca-ny/stays)/[VRBO](https://www.vrbo.com/vacation-rentals/usa/new-york/finger-lakes/cayuga-lake/ithaca) also have many great options.
+
 ### Local Map & Parking
 
-Coming Soon
+[Ithaca College Map](https://map.ithaca.edu/) is helpful and 
+[Google Maps](https://www.google.com/maps/place/Williams+Hall,+131+Textor+Cir,+Ithaca,+NY+14850/@42.4227246,-76.4976555,17z/data=!3m1!4b1!4m6!3m5!1s0x89d081a58d007475:0xb6edf461ec8df820!8m2!3d42.4227246!4d-76.4950752!16s%2Fg%2F1tdh089t?entry=ttu) can help you find your way to Williams Hall.
+
+Parking on campus is free on Saturday but there will be an admission event during NEMISIG. However, there should be plenty of parking. Lot O near the Park School of Communications is close to Williams Hall and will likely be you best bet.
 
 ### Getting to Ithaca
 
-Coming Soon
- 
-### Staying near Ithaca
+The [Ithaca Tompkins International Airport (ITH)](https://flyithaca.com/) is only a few miles away from Ithaca College. 
 
-Coming Soon
+There are also a bunch of bus services that pass through Ithaca. In particular, there are several direct buses from NYC.
+* [Cornell Campus-to-Campus Bus](https://fcs.cornell.edu/departments/transportation-delivery-services/campus-campus-bus-service)
+* [MegaBus](https://us.megabus.com/journey-planner/journeys?originId=123&destinationId=511&totalPassengers=1)
+* [FlixBus](https://shop.flixbus.com/search?departureCity=c0a47c54-53ea-46dc-984b-b764fc0b2fa9&arrivalCity=99c4f86c-3ecb-11ea-8017-02437075395e&route=New+York%2C+NY-Ithaca%2C+NY&rideDate=22.03.2024&adult=1&_locale=en_US&features%5Bfeature.enable_distribusion%5D=1&features%5Bfeature.train_cities_only%5D=0&features%5Bfeature.auto_update_disabled%5D=0&features%5Bfeature.webc_search_station_suggestions_enabled%5D=0&features%5Bfeature.webc_search_limited_product_list%5D=0&features%5Bfeature.darken_page%5D=1&_sp=47d6c44f-18aa-491f-996f-c795e773ce62&_spnuid=81740b36-8732-4bbc-9be2-cbcc25a41719_1706197466373)
+* [Greyhound](https://www.greyhound.com/bus/ithaca-ny)
+
+
