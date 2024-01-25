@@ -40,14 +40,14 @@ In Williams Hall, Williams Hall 323 except where noted:
 
 ## About Ithaca and Ithaca College
 
-Ithaca, New York, is a small city known for its scenic beauty, vibrant cultural scene, and academic atmosphere, largely influenced by Cornell University and Ithaca College. Situated in the Finger Lakes region, it's renowned for its natural attractions, including gorges, waterfalls, and Cayuga Lake. The downtown area, centered around the Ithaca Commons, is a hub for local shops, restaurants, and arts venues. Ithaca also has a strong community focus on sustainability and progressive politics. 
+[Ithaca, New York,](https://www.visitithaca.com/) is a small city known for its scenic beauty, vibrant cultural scene, and academic atmosphere, largely influenced by [Cornell University](https://www.cornell.edu/) and [Ithaca College](https://www.ithaca.edu/). Situated in the Finger Lakes region, it's renowned for its natural attractions, including gorges, waterfalls, and Cayuga Lake. The downtown area, centered around the [Ithaca Commons](https://www.downtownithaca.com/visit-downtown/the-commons/), is a hub for local shops, restaurants, and arts venues. Ithaca also has a strong community focus on sustainability and progressive politics. 
 
-Ithaca College, located in Ithaca, New York, is a private college known for its strong programs in communications, music, and the liberal arts. Established in 1892, it emphasizes a blend of theory and practice in its curriculum. The college is renowned for its hands-on approach to learning, offering numerous opportunities for internships and experiential learning. Its picturesque campus overlooks Cayuga Lake and offers a vibrant college town environment, while its alumni network is particularly strong in the media and entertainment industries.
+[Ithaca College](https://www.ithaca.edu/) is a private college known for its strong programs in communications, music, and the liberal arts. Established in 1892, it emphasizes a blend of theory and practice in its curriculum. Its picturesque campus overlooks Cayuga Lake and offers a vibrant college town environment, while its alumni network is particularly strong in the media and entertainment industries.
 
 ## Travel and Accommodations
 Ithaca College maintains a [list of local hotels](https://www.ithaca.edu/orientation/family-and-supporter-resources/area-lodging).
 
-For the funky boutique hotel experience, we recommend the [Argos Inn[(https://www.argosinn.com/) (great Jazz nights) and the [William Henry Miller Inn](https://millerinn.com/) which are both downtown close to cultural center of downtown Ithaca.
+For the funky boutique hotel experience, we recommend the [Argos Inn](https://www.argosinn.com/) (great Jazz nights) and the [William Henry Miller Inn](https://millerinn.com/) which are both downtown close to cultural center of downtown Ithaca.
 
 [AirBnB](https://www.airbnb.com/ithaca-ny/stays)/[VRBO](https://www.vrbo.com/vacation-rentals/usa/new-york/finger-lakes/cayuga-lake/ithaca) also have many great options.
 
@@ -56,7 +56,7 @@ For the funky boutique hotel experience, we recommend the [Argos Inn[(https://ww
 [Ithaca College Map](https://map.ithaca.edu/) is helpful and 
 [Google Maps](https://www.google.com/maps/place/Williams+Hall,+131+Textor+Cir,+Ithaca,+NY+14850/@42.4227246,-76.4976555,17z/data=!3m1!4b1!4m6!3m5!1s0x89d081a58d007475:0xb6edf461ec8df820!8m2!3d42.4227246!4d-76.4950752!16s%2Fg%2F1tdh089t?entry=ttu) can help you find your way to Williams Hall.
 
-Parking on campus is free on Saturday but there will be an admission event during NEMISIG. However, there should be plenty of parking. Lot O near the Park School of Communications is close to Williams Hall and will likely be you best bet.
+Parking on campus is free on Saturdays but there will be an admission event during NEMISIG. However, there should be plenty of parking. Lot O near the Park School of Communications is close to Williams Hall and will likely be you best bet.
 
 ### Getting to Ithaca
 
