@@ -9,7 +9,7 @@ If you have any questions, please direct them to the [Google Group](mailto:nemis
 
 This year, NEMISIG will be held at Ithaca College in Ithaca, NY on March 23, 2024. It is hosted by [Doug Turnbull](https://dougturnbull.org/)  and [April Trainor](https://april.trainor.io/) of the [Computer Science Department](https://www.ithaca.edu/academics/school-humanities-and-sciences/computer-science). It will held in Williams Hall near the Campus Center on the Ithaca College campus.
 
-![IC](/images/IC-LakeView.jpeg)
+![IC Lake View](/images/IC-LakeView.jpeg)
 
 
 ## Schedule
@@ -54,6 +54,8 @@ For the funky boutique hotel experience, we recommend the [Argos Inn](https://ww
 [AirBnB](https://www.airbnb.com/ithaca-ny/stays)/[VRBO](https://www.vrbo.com/vacation-rentals/usa/new-york/finger-lakes/cayuga-lake/ithaca) also have many great options.
 
 ### Local Map & Parking
+
+![IC Lake View](/images/IC-WilliamsHallMap.png)
 
 [Ithaca College Map](https://map.ithaca.edu/) is helpful and 
 [Google Maps](https://www.google.com/maps/place/Williams+Hall,+131+Textor+Cir,+Ithaca,+NY+14850/@42.4227246,-76.4976555,17z/data=!3m1!4b1!4m6!3m5!1s0x89d081a58d007475:0xb6edf461ec8df820!8m2!3d42.4227246!4d-76.4950752!16s%2Fg%2F1tdh089t?entry=ttu) can help you find your way to Williams Hall.
