@@ -60,7 +60,7 @@ For the funky boutique hotel experience, we recommend the [Argos Inn](https://ww
 [Ithaca College Map](https://map.ithaca.edu/) is helpful and 
 [Google Maps](https://www.google.com/maps/place/Williams+Hall,+131+Textor+Cir,+Ithaca,+NY+14850/@42.4227246,-76.4976555,17z/data=!3m1!4b1!4m6!3m5!1s0x89d081a58d007475:0xb6edf461ec8df820!8m2!3d42.4227246!4d-76.4950752!16s%2Fg%2F1tdh089t?entry=ttu) can help you find your way to Williams Hall.
 
-Parking on campus is free on Saturdays but there will be an admission event during NEMISIG. However, there should be plenty of parking. Lot O near the Park School of Communications is close to Williams Hall and will likely be your best bet.
+Parking on campus is free on Saturdays but there will be an admissions event during NEMISIG. However, there should be plenty of parking. Lot O near the Park School of Communications is close to Williams Hall and will likely be your best bet.
 
 ### Getting to Ithaca
 
