@@ -7,7 +7,7 @@ If you have any questions, please direct them to the [Google Group](mailto:nemis
 
 ## Venue 
 
-This year, NEMISIG will be held at Ithaca College in Ithaca, NY on March 23, 2024. It is hosted by [Doug Turnbull](https://dougturnbull.org/)  and [April Trainor](https://april.trainor.io/) of the [Computer Science Department](https://www.ithaca.edu/academics/school-humanities-and-sciences/computer-science). It will held in William Hall near the Campus Center on the Ithaca College campus.
+This year, NEMISIG will be held at Ithaca College in Ithaca, NY on March 23, 2024. It is hosted by [Doug Turnbull](https://dougturnbull.org/)  and [April Trainor](https://april.trainor.io/) of the [Computer Science Department](https://www.ithaca.edu/academics/school-humanities-and-sciences/computer-science). It will held in Williams Hall near the Campus Center on the Ithaca College campus.
 
 
 ## Schedule
