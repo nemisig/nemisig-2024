@@ -1,6 +1,6 @@
 [NEMISIG](https://nemisig.net) (North East Music Information Special Interest Group) is a yearly informal meeting for [Music Information Retrieval](https://en.wikipedia.org/wiki/Music_information_retrieval) researchers who work at the intersection of computer science, mathematics, and music. NEMISIG gathers researchers from the Northeastern United States and Eastern Canada.
 
-**[Register Here](https://forms.gle/ENNJFbS5tbBY2PzYA)** by Thursday, March 14th. Registration is **free** but we need to make sure we have enough food and coffee for everyone!
+**[Register Here](https://forms.gle/ENNJFbS5tbBY2PzYA)** by **Thursday, March 14th**. Registration is **free** but we need to make sure we have enough food and coffee for everyone!
  
 
 If you have any questions, please direct them to the [Google Group](mailto:nemisig@googlegroups.com)! You may also wish to [join the group](https://groups.google.com/forum/#!forum/nemisig).
