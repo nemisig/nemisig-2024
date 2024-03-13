@@ -1,4 +1,4 @@
-[NEMISIG](https://nemisig.net) (North East Music Information Special Interest Group) is a yearly informal meeting for [Music Information Retrieval](https://en.wikipedia.org/wiki/Music_information_retrieval) researchers who work at the intersection of computer science, mathematics, and music. NEMISIG gathers researchers from the Northeastern United States and Eastern Canada.
+**[NEMISIG](https://nemisig.net) (North East Music Information Special Interest Group)** is a yearly informal meeting for [Music Information Retrieval](https://en.wikipedia.org/wiki/Music_information_retrieval) researchers who work at the intersection of computer science, mathematics, and music. NEMISIG gathers researchers from the Northeastern United States and Eastern Canada.
 
 **[Register Here](https://forms.gle/ENNJFbS5tbBY2PzYA)** by **Thursday, March 14th**. Registration is **free** but we need to make sure we have enough food and coffee for everyone!
  
@@ -28,13 +28,13 @@ In Williams Hall, Williams Hall 323 except where noted:
 * 9:00 am -- Check-in, coffee, and pastries 
 * 9:15 am -- Welcome Remarks 
 * 9:20 am -- **Lab Talks**
-  * **Drexel U.** - Drexel ExCITe Center - Youngmoo Kim
-  * **Brooklyn College** - CUNY's Laboratory for Music and Audio Understanding (LUMAA) - Johanna Devaney
+  * **Drexel U.** - [ExCITe Center](https://drexel.edu/excite/) - Youngmoo Kim
+  * **Brooklyn College** - [CUNY's Laboratory for Music and Audio Understanding (LUMAA)](https://lumaa.commons.gc.cuny.edu/) - Johanna Devaney
 * 10:15 am -- Coffee beak
 * 10:30 am -- Lab Talks
   * **NYU** - [Music and Audio Research Lab (MARL)](https://steinhardt.nyu.edu/marl) - Brian McFee 
-  * **NJIT** - Sound Interaction and Computing (SInC) Lab - Mark Cartwright
-  * **U. or Rochester** - Audio Information Research Lab  - Zhiyao Duan
+  * **NJIT** - [Sound Interaction and Computing (SInC) Lab](https://sinc-lab.com/) - Mark Cartwright
+  * **U. or Rochester** - [Audio Information Research Lab](https://labsites.rochester.edu/air/)  - Zhiyao Duan
 * 11:30 am -- **Keynote Talk**
   * [Anna Huang](https://czhuang.github.io/) - MIT / Google DeepMind
 * 12:15 pm -- Lunch 
