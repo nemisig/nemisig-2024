@@ -28,13 +28,13 @@ In Williams Hall, Williams Hall 323 except where noted:
 * 9:00 am -- Check-in, coffee, and pastries 
 * 9:15 am -- Welcome Remarks 
 * 9:20 am -- **Lab Talks**
+  * **U. or Rochester** - [Audio Information Research Lab](https://labsites.rochester.edu/air/)  - Zhiyao Duan
   * **Drexel U.** - [ExCITe Center](https://drexel.edu/excite/) - Youngmoo Kim
   * **Brooklyn College** - [CUNY's Laboratory for Music and Audio Understanding (LUMAA)](https://lumaa.commons.gc.cuny.edu/) - Johanna Devaney
 * 10:15 am -- Coffee beak
 * 10:30 am -- **Lab Talks**
   * **NYU** - [Music and Audio Research Lab (MARL)](https://steinhardt.nyu.edu/marl) - Brian McFee 
   * **NJIT** - [Sound Interaction and Computing (SInC) Lab](https://sinc-lab.com/) - Mark Cartwright
-  * **U. or Rochester** - [Audio Information Research Lab](https://labsites.rochester.edu/air/)  - Zhiyao Duan
 * 11:30 am -- **Keynote Talk**
   * [Anna Huang](https://czhuang.github.io/) - MIT / Google DeepMind
 * 12:15 pm -- Lunch 
