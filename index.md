@@ -1,4 +1,4 @@
-**[NEMISIG](https://nemisig.net) (North East Music Information Special Interest Group)** is a yearly informal meeting for [Music Information Retrieval](https://en.wikipedia.org/wiki/Music_information_retrieval) researchers who work at the intersection of computer science, mathematics, and music. NEMISIG gathers researchers from the Northeastern United States and Eastern Canada.
+**[NEMISIG](https://nemisig.net)** (North East Music Information Special Interest Group) is a yearly informal meeting for [Music Information Retrieval](https://en.wikipedia.org/wiki/Music_information_retrieval) researchers who work at the intersection of computer science, mathematics, and music. NEMISIG gathers researchers from the Northeastern United States and Eastern Canada.
 
 **[Register Here](https://forms.gle/ENNJFbS5tbBY2PzYA)** by **Thursday, March 14th**. Registration is **free** but we need to make sure we have enough food and coffee for everyone!
  
@@ -38,7 +38,7 @@ In Williams Hall, Williams Hall 323 except where noted:
 * 11:30 am -- **Keynote Talk**
   * [Anna Huang](https://czhuang.github.io/) - MIT / Google DeepMind
 * 12:15 pm -- Lunch 
-* 1:00 pm -- More Lunch & Posters  
+* 1:00 pm -- **Research Posters** 
 * 2:00 pm -- Discussion of Breakout Session Topics
 * 2:15 pm -- **Breakout Session 1**
 * 3:00 pm  -- Coffee Break
