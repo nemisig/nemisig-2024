@@ -28,10 +28,13 @@ In Williams Hall, Williams Hall 323 except where noted:
 * 9:00 am -- Check-in, coffee, and pastries 
 * 9:15 am -- Welcome remarks 
 * 9:20 am -- Lab talks
-  * Drexel (Youngmoo Kim)
-  * Brooklyn College (Johanna Devaney)
+  * **Drexel U.** - Youngmoo Kim
+  * **Brooklyn College** - Johanna Devaney
 * 10:15 am -- Coffee beak
-* 10:30 am -- Lab talks - NYU (Brian McFee), 
+* 10:30 am -- Lab talks
+  * **NYU** - Brian McFee 
+  * **NJIT** - Mark Cartwright
+  * **U. or Rochester** - Zhiyao Duan
 * 11:30 am -- Keynote talk - [Anna Huang](https://czhuang.github.io/) - MIT / Google DeepMind
 * 12:15 pm -- Lunch 
 * 1:00 pm -- More Lunch & Posters  
