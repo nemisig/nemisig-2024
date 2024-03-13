@@ -26,23 +26,24 @@ Propose songs and [sign up](https://docs.google.com/spreadsheets/d/1SFimdtwF5PN5
 In Williams Hall, Williams Hall 323 except where noted:
 
 * 9:00 am -- Check-in, coffee, and pastries 
-* 9:15 am -- Welcome remarks 
-* 9:20 am -- Lab talks
-  * **Drexel U.** - Youngmoo Kim
-  * **Brooklyn College** - Johanna Devaney
+* 9:15 am -- Welcome Remarks 
+* 9:20 am -- **Lab Talks**
+  * **Drexel U.** - Drexel ExCITe Center - Youngmoo Kim
+  * **Brooklyn College** - CUNY's Laboratory for Music and Audio Understanding (LUMAA) - Johanna Devaney
 * 10:15 am -- Coffee beak
-* 10:30 am -- Lab talks
-  * **NYU** - Brian McFee 
-  * **NJIT** - Mark Cartwright
-  * **U. or Rochester** - Zhiyao Duan
-* 11:30 am -- Keynote talk - [Anna Huang](https://czhuang.github.io/) - MIT / Google DeepMind
+* 10:30 am -- Lab Talks
+  * **NYU** - [Music and Audio Research Lab (MARL)](https://steinhardt.nyu.edu/marl) - Brian McFee 
+  * **NJIT** - Sound Interaction and Computing (SInC) Lab - Mark Cartwright
+  * **U. or Rochester** - Audio Information Research Lab  - Zhiyao Duan
+* 11:30 am -- **Keynote Talk**
+  * [Anna Huang](https://czhuang.github.io/) - MIT / Google DeepMind
 * 12:15 pm -- Lunch 
 * 1:00 pm -- More Lunch & Posters  
-* 2:00 pm -- Discussion of breakout session topics
-* 2:15 pm -- Breakout session 1
-* 3:00 pm  -- Coffee break
-* 03:15 pm  -- Breakout session 2
-* 04:00 pm  -- Breakout session recap and closing remarks
+* 2:00 pm -- Discussion of Breakout Session Topics
+* 2:15 pm -- **Breakout Session 1**
+* 3:00 pm  -- Coffee Break
+* 03:15 pm  -- **Breakout Session 2**
+* 04:00 pm  -- Breakout Session Recap and Closing Remarks
 
 
 ## About Ithaca and Ithaca College
