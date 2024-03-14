@@ -36,7 +36,7 @@ In Williams Hall, Williams Hall 323 except where noted:
   * **NYU** - [Music and Audio Research Lab (MARL)](https://steinhardt.nyu.edu/marl) - Brian McFee 
   * **NJIT** - [Sound Interaction and Computing (SInC) Lab](https://sinc-lab.com/) - Mark Cartwright
 * 11:30 am -- **Keynote Talk**
-  * "Creativity through Interaction" - [Anna Huang](https://czhuang.github.io/) - MIT / Google DeepMind 
+  * "Creativity through Interaction" - [Anna Huang](https://czhuang.github.io/) - MIT / Mila / Google DeepMind 
 * 12:15 pm -- Lunch 
 * 1:00 pm -- **Research Posters** 
 * 2:00 pm -- Discussion of Breakout Session Topics
