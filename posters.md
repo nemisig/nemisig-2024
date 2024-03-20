@@ -1,6 +1,6 @@
-Name	, 	Institution	, 	Poster Title
-Daniel McKemie	, 	Brooklyn College	, 	pyAMPACT
-Matthew Perez Gin	, 	Cornell University, QMUL Music Cognition Lab	, 	"Play" "Listing"
+## Name	, 	Institution	, 	Poster Title
+### Daniel McKemie	, 	Brooklyn College	, 	pyAMPACT
+### Matthew Perez Gin	, 	Cornell University, QMUL Music Cognition Lab	, 	"Play" "Listing"
 Andy Wiggins	, 	Drexel University	, 	GuitaristNet: Improving Guitar Tablature Transcription using a Differentiable Synthesizer
 Charis Cochran	, 	Drexel University	, 	DiffTimbre: Multi-instrument Timbre Transfer in Mixtures using Conditional Diffusion Denoising Implicit Models
 Sangheon "Michael" Park	, 	Drexel University, MET-Lab	, 	Music Data Collection Game, Music: Not Impossible
