@@ -38,7 +38,7 @@ In Williams Hall, Williams Hall 323 except where noted:
 * 11:30 am -- **Keynote Talk**
   * "Creativity through Interaction" - [Anna Huang](https://czhuang.github.io/) - MIT / Mila / Google DeepMind 
 * 12:15 pm -- Lunch 
-* 1:00 pm -- **Research Posters** 
+* 1:00 pm -- **[Research Posters](https://docs.google.com/spreadsheets/d/19FIqx_CJAjUaCCVYxN9dciIRNAxibMoLAUk5MkWWbWw/edit#gid=0)** 
 * 2:00 pm -- Discussion of Breakout Session Topics
 * 2:15 pm -- **Breakout Session 1**
 * 3:00 pm  -- Coffee Break
