@@ -23,10 +23,10 @@ Propose songs and [sign up](https://docs.google.com/spreadsheets/d/1SFimdtwF5PN5
 
 
 #### Saturday, March 23, 2024:
-In Williams Hall, Williams Hall 323 except where noted:
+We will be in the Williams Hall 225 Lecture Room for most of the morning:
 
-* 9:00 am -- Check-in, coffee, and pastries 
-* 9:15 am -- Welcome Remarks 
+* 9:00 am -- Check-in, coffee, and pastries in Williams 221
+* 9:15 am -- Welcome Remarks in Williams 225
 * 9:20 am -- **Lab Talks**
   * **U. or Rochester** - [Audio Information Research Lab](https://labsites.rochester.edu/air/)  - Zhiyao Duan
   * **Drexel U.** - [ExCITe Center](https://drexel.edu/excite/) - Youngmoo Kim
@@ -39,7 +39,7 @@ In Williams Hall, Williams Hall 323 except where noted:
   * "Creativity through Interaction" - [Anna Huang](https://czhuang.github.io/) - MIT / Mila / Google DeepMind 
 * 12:15 pm -- Lunch 
 * 1:00 pm -- **[Research Posters](https://docs.google.com/spreadsheets/d/19FIqx_CJAjUaCCVYxN9dciIRNAxibMoLAUk5MkWWbWw/edit#gid=0)** 
-* 2:00 pm -- Discussion of Breakout Session Topics
+* 2:00 pm -- Discussion of Breakout Session Topics in W302, W309, W310, W323
 * 2:15 pm -- **Breakout Session 1**
 * 3:00 pm  -- Coffee Break
 * 03:15 pm  -- **Breakout Session 2**
