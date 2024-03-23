@@ -28,8 +28,8 @@ We will be in the Williams Hall 225 Lecture Room for most of the morning:
 * 9:00 am -- Check-in, coffee, and pastries in Williams 221
 * 9:15 am -- Welcome Remarks in Williams 225
 * 9:30 am -- **Lab Talks**
+ * **Drexel U.** - [ExCITe Center](https://drexel.edu/excite/) - Youngmoo Kim
   * **U. or Rochester** - [Audio Information Research Lab](https://labsites.rochester.edu/air/)  - Zhiyao Duan
-  * **Drexel U.** - [ExCITe Center](https://drexel.edu/excite/) - Youngmoo Kim
 * 10:15 am -- Coffee beak
 * 10:30 am -- **Lab Talks**
   * **Brooklyn College** - [CUNY's Laboratory for Music and Audio Understanding (LUMAA)](https://lumaa.commons.gc.cuny.edu/) - Johanna Devaney
