@@ -30,9 +30,9 @@ We will be in the Williams Hall 225 Lecture Room for most of the morning:
 * 9:30 am -- **Lab Talks**
  * **Drexel U.** - [ExCITe Center](https://drexel.edu/excite/) - Youngmoo Kim
   * **U. or Rochester** - [Audio Information Research Lab](https://labsites.rochester.edu/air/)  - Zhiyao Duan
+  * **Brooklyn College** - [CUNY's Laboratory for Music and Audio Understanding (LUMAA)](https://lumaa.commons.gc.cuny.edu/) - Johanna Devaney
 * 10:15 am -- Coffee beak
 * 10:30 am -- **Lab Talks**
-  * **Brooklyn College** - [CUNY's Laboratory for Music and Audio Understanding (LUMAA)](https://lumaa.commons.gc.cuny.edu/) - Johanna Devaney
   * **NYU** - [Music and Audio Research Lab (MARL)](https://steinhardt.nyu.edu/marl) - Brian McFee 
   * **NJIT** - [Sound Interaction and Computing (SInC) Lab](https://sinc-lab.com/) - Mark Cartwright
 * 11:30 am -- **Keynote Talk**
