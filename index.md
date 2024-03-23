@@ -29,7 +29,7 @@ We will be in the Williams Hall 225 Lecture Room for most of the morning:
 * 9:15 am -- Welcome Remarks in Williams 225
 * 9:30 am -- **Lab Talks**
   * **Drexel U.** - [ExCITe Center](https://drexel.edu/excite/) - Youngmoo Kim
-  * **U. or Rochester** - [Audio Information Research Lab](https://labsites.rochester.edu/air/)  - Zhiyao Duan
+  * **U. of Rochester** - [Audio Information Research Lab](https://labsites.rochester.edu/air/)  - Zhiyao Duan
   * **Brooklyn College** - [CUNY's Laboratory for Music and Audio Understanding (LUMAA)](HTTP://www.lumaa.info) - Johanna Devaney
 * 10:15 am -- Coffee beak
 * 10:30 am -- **Lab Talks**
@@ -39,7 +39,7 @@ We will be in the Williams Hall 225 Lecture Room for most of the morning:
   * "Creativity through Interaction" - [Anna Huang](https://czhuang.github.io/) - MIT / Mila / Google DeepMind 
 * 12:15 pm -- Lunch 
 * 1:00 pm -- **[Research Posters](https://docs.google.com/spreadsheets/d/19FIqx_CJAjUaCCVYxN9dciIRNAxibMoLAUk5MkWWbWw/edit#gid=0)** 
-* 2:00 pm -- Discussion of Breakout Session Topics in W302, W309, W310, W323
+* 2:00 pm -- Discussion of Breakout Session Topics in W309, W310, W313
     * [Breakout Session Discussion Notes](https://docs.google.com/document/d/10VZQtCyql_PNJpZSk19LLkbussrC8nTPhw0Q8h4SMLA/edit?usp=sharing)
 * 2:15 pm -- **Breakout Session 1**
 * 3:00 pm  -- Coffee Break
