@@ -40,6 +40,7 @@ We will be in the Williams Hall 225 Lecture Room for most of the morning:
 * 12:15 pm -- Lunch 
 * 1:00 pm -- **[Research Posters](https://docs.google.com/spreadsheets/d/19FIqx_CJAjUaCCVYxN9dciIRNAxibMoLAUk5MkWWbWw/edit#gid=0)** 
 * 2:00 pm -- Discussion of Breakout Session Topics in W302, W309, W310, W323
+    * [Breakout Session Discussion Notes](https://docs.google.com/document/d/10VZQtCyql_PNJpZSk19LLkbussrC8nTPhw0Q8h4SMLA/edit?usp=sharing)
 * 2:15 pm -- **Breakout Session 1**
 * 3:00 pm  -- Coffee Break
 * 03:15 pm  -- **Breakout Session 2**
